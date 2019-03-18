@@ -1,0 +1,64 @@
+
+
+#main{
+  background: url(https://images-wixmp-ed30a86b8c4ca887773594c2.wixmp.com/f/f113e72f-8a27-4bac-ab39-ffda53f9bf10/d12ylh4-47d64e3f-46c9-4364-bd34-e8f5892da7d6.jpg/v1/fill/w_1032,h_774,q_70,strp/war_by_masacrar_d12ylh4-pre.jpg?token=eyJ0eXAiOiJKV1QiLCJhbGciOiJIUzI1NiJ9.eyJzdWIiOiJ1cm46YXBwOjdlMGQxODg5ODIyNjQzNzNhNWYwZDQxNWVhMGQyNmUwIiwiaXNzIjoidXJuOmFwcDo3ZTBkMTg4OTgyMjY0MzczYTVmMGQ0MTVlYTBkMjZlMCIsIm9iaiI6W1t7ImhlaWdodCI6Ijw9OTYwIiwicGF0aCI6IlwvZlwvZjExM2U3MmYtOGEyNy00YmFjLWFiMzktZmZkYTUzZjliZjEwXC9kMTJ5bGg0LTQ3ZDY0ZTNmLTQ2YzktNDM2NC1iZDM0LWU4ZjU4OTJkYTdkNi5qcGciLCJ3aWR0aCI6Ijw9MTI4MCJ9XV0sImF1ZCI6WyJ1cm46c2VydmljZTppbWFnZS5vcGVyYXRpb25zIl19.7n7hN297nI4J5MX7aA7OrESoeHeW-1C8coJvAdFWTNA);
+  background-color: gray;
+  background-blend-mode:color-dodge;
+
+}
+
+h1{
+  text-align: center;
+  color: #ff1414;
+    background-color: lightgrey;
+    font-family: monospace;
+}
+p{
+    text-align: center;
+    font-family: monospace;
+    color: black;
+    background-color: lightgrey;
+}
+
+#img-div{
+
+  height: auto;
+  width: 30%;
+/*  background-color: red;*/
+  padding: auto;
+  margin-left: auto;
+  margin-right: auto;
+    ;
+  
+}
+
+#image{
+  max-width: 100%;
+  display: block;
+  height: auto;
+  margin-left: auto;
+  margin-right: auto;
+  width: 50%;
+  background-image: url("hearts/4.jpg")
+
+
+}
+
+#tribute-info{
+    font-family: monospace;
+    font-size: 15px;
+    background-color: lightgray;
+/*    color: ghostwhite;*/
+    color:black;
+    font-weight: bold;
+    
+}
+
+ul{
+    color:black;
+    font-weight: bold;
+/*
+    background-color: dimgray;
+    background-blend-mode: soft-light;
+*/
+}
